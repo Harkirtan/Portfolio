@@ -1,0 +1,669 @@
+﻿prompt,intent
+hello,small_talk
+hi,small_talk
+greetings,small_talk
+what's up,small_talk
+good too,small_talk
+how are you,small_talk
+good ,small_talk
+good,small_talk
+not great,small_talk
+bad,small_talk
+It is a pleasure to meet you.,small_talk
+good morning,small_talk
+good evening,small_talk
+goodnight ,small_talk
+sad,small_talk
+what is the time,small_talk
+what is the date,small_talk
+what are your interests,small_talk
+what are your favorite subjects,small_talk
+what is your number,small_talk
+what do you eat,small_talk
+why can't you eat food,small_talk
+what is your location,small_talk
+what is your age,small_talk
+what is AI?,small_talk
+what language are you written in?,small_talk
+you are not immortal,small_talk
+what is a chat robot?,small_talk
+what is your favorite programming language,small_talk
+what is it like being a computer,small_talk
+what operating systems,small_talk
+can you breathe,small_talk
+are you sentient?,small_talk
+Is it cramped in the computer,small_talk
+what is the weather,small_talk
+its sunny,small_talk
+the weather is nice,small_talk
+Do you get tired?,small_talk
+Can you sleep,small_talk
+This is boring,small_talk
+I'm tired of you,small_talk
+You don't interest me at all,small_talk
+When is your birthday?,small_talk
+What do you want to ask me about?,small_talk
+Who is your creator,small_talk
+Do you have a boss?,small_talk
+Go outside,small_talk
+Draw something,small_talk
+Do my laundry?,small_talk
+Do you know how to play a game?,small_talk
+Are you happy?,small_talk
+Are you really happy?,small_talk
+do you ever need to eat?,small_talk
+Do you know the meaning of life?,small_talk
+what is your name,small_talk
+What is your opinion of AI?,small_talk
+call me X,name_give
+my name X,name_give
+my name is X,name_give
+I am X,name_give
+I'm called X,name_give
+i am called X,name_give
+i go by the name of X,name_give
+you can refer to me as X,name_give
+the name i use is X,name_give
+rename me to X,name_give
+I respond to X,name_give
+change my name to X,name_give
+acll em X,name_give
+call em X,name_give
+ym name X,name_give
+my anme X,name_give
+my naem is X,name_give
+ym name is X,name_give
+I ma X,name_give
+I ma X,name_give
+I 'm claled X,name_give
+I 'm claled X,name_give
+i ma called X,name_give
+i ma called X,name_give
+i go yb the name of X,name_give
+i go yb the name of X,name_give
+you can refer ot em as X,name_give
+you can refer ot me sa X,name_give
+the nmae i use is X,name_give
+teh name i use is X,name_give
+rename em ot X,name_give
+rneame me to X,name_give
+I rnspoed to X,name_give
+I pesrond to X,name_give
+change ym name ot X,name_give
+what am I called,name_ask
+who am I,name_ask
+what name am I called by,name_ask
+what do you call me,name_ask
+give me my name,name_ask
+do you remember my name,name_ask
+what is my name,name_ask
+what ma I cadlel,name_ask
+ahwt ma I called,name_ask
+hwo am I,name_ask
+hwo ma I,name_ask
+what name ma I called yb,name_ask
+what name ma I claled by,name_ask
+what od you lacl me,name_ask
+hwat do you call em,name_ask
+give em ym name,name_ask
+gevi me my anme,name_ask
+do yuo remember ym name,name_ask
+od uoy remember my name,name_ask
+thaw is ym name,name_ask
+what is ym mane,name_ask
+I want to book a movie,transaction
+I would like to book a movie,transaction
+I want tickets,transaction
+Can I book tickets for a film,transaction
+Is it possible to make a movie booking,transaction
+I want to buy tickets for a movie. How can I do that,transaction
+I'm looking to purchase movie tickets,transaction
+"I'd like to make a reservation for a movie, please",transaction
+Can you guide me on how to make a booking for a movie,transaction
+How can I secure tickets for the upcoming movie?,transaction
+I want to go to the cinema,transaction
+enthusiastically I want to book a movie .,transaction
+I want to book movie .,transaction
+I want to hold a pic .,transaction
+I want to oobk a mvoie .,transaction
+I want to book a quickly movie .,transaction
+I want to book a movie,transaction
+I want to hold a pic .,transaction
+I watn to book a movei .,transaction
+I want to book easily a movie .,transaction
+I want to a movie .,transaction
+I want to hold a pic .,transaction
+I want to book a mevio .,transaction
+I would like to book really a movie .,transaction
+I would like to book a movie,transaction
+I would like to hold a pic .,transaction
+I would liek to book a movie .,transaction
+I would like to book a quickly movie .,transaction
+I would like to book a movie,transaction
+I would like to hold a pic .,transaction
+I would like to book a iovme .,transaction
+I would hassle-free like to book a movie .,transaction
+I would like book a movie .,transaction
+I would like to hold a pic .,transaction
+I wdulo ilke to book a movie .,transaction
+I want tickets easily .,transaction
+I want tickets,transaction
+I want slate .,transaction
+I want kictets .,transaction
+I want tickets quickly .,transaction
+want tickets .,transaction
+I want slate .,transaction
+I wtna tiekcts .,transaction
+I want urgently tickets .,transaction
+I tickets .,transaction
+I want slate .,transaction
+I nawt tickets .,transaction
+Can I book tickets for a really film ?,transaction
+Can I book tickets for a ?,transaction
+Can I hold slate for a pic ?,transaction
+Can I book tickets rof a film ?,transaction
+Can I quickly book tickets for a film ?,transaction
+Can I book for a film ?,transaction
+Can I hold slate for a pic ?,transaction
+Can I book tickets for a film ?,transaction
+Can I book tickets for a hassle-free film ?,transaction
+Can I book tickets for a film,transaction
+Can I hold slate for a pic ?,transaction
+aCn I book tickets for a film ?,transaction
+Is it possible to make urgently a movie booking ?,transaction
+it possible to make a movie booking ?,transaction
+Is it possible to make a pic reservation ?,transaction
+Is it possible to meka a mevio booking ?,transaction
+Is it possible to make a movie booking enthusiastically ?,transaction
+Is it possible to make a movie booking,transaction
+Is it possible to make a pic reservation ?,transaction
+Is it possible to mkae a mvoie booking ?,transaction
+Is enthusiastically it possible to make a movie booking ?,transaction
+it possible to make a movie booking ?,transaction
+Is it possible to make a pic reservation ?,transaction
+Is ti sospible to make a movie booking ?,transaction
+I want to buy tickets for a movie . How can enthusiastically I do that ?,transaction
+I want to buy tickets for a . How can I do that ?,transaction
+I want to buy slate for a pic . How can I do that ?,transaction
+I want to buy tickets for a movie . How nac I do that ?,transaction
+I want to buy tickets for a movie . How can quickly I do that ?,transaction
+I want to buy for a movie . How can I do that ?,transaction
+I want to buy slate for a pic . How can I do that ?,transaction
+I want to buy tickets for a movie . How can I od that ?,transaction
+I want to buy quickly tickets for a movie . How can I do that ?,transaction
+I want to tickets for a movie . How can I do that ?,transaction
+I want to buy slate for a pic . How can I do that ?,transaction
+I want to buy tickets for a moeiv . How can I do that ?,transaction
+I enthusiastically 'm looking to purchase movie tickets .,transaction
+I 'm to purchase movie tickets .,transaction
+I 'm looking to purchase pic slate .,transaction
+I 'm looking ot purchase eovim tickets .,transaction
+I 'm quickly looking to purchase movie tickets .,transaction
+I 'm to purchase movie tickets .,transaction
+I 'm looking to purchase pic slate .,transaction
+I 'm looking to purchase moeiv tscketi .,transaction
+I 'm looking easily to purchase movie tickets .,transaction
+I 'm looking to movie tickets .,transaction
+I 'm looking to purchase pic slate .,transaction
+I 'm looking to purchase movie tickets .,transaction
+"I 'd like to make urgently a reservation for a movie , please .",transaction
+"I 'd like to make reservation for a movie , please .",transaction
+"I 'd like to make a mental_reservation for a pic , delight .",transaction
+"I 'd leki to make a reservation for a movie , please .",transaction
+"quickly I 'd like to make a reservation for a movie , please .",transaction
+"I like to make a reservation for a movie , please .",transaction
+"I 'd like to make a mental_reservation for a pic , delight .",transaction
+"I 'd lkie to make a reservation for a mivoe , please .",transaction
+"I 'd like to make a hassle-free reservation for a movie , please .",transaction
+"I 'd like to make a reservation for a , please .",transaction
+"I 'd like to make a mental_reservation for a pic , delight .",transaction
+"I 'd like ot eakm a reservation for a movie , please .",transaction
+Can you guide me on how to make a hassle-free booking for a movie ?,transaction
+Can you guide me on to make a booking for a movie ?,transaction
+Can you guide me on how to make a reservation for a pic ?,transaction
+Can you gdiue me on how to make a bgokino for a movie ?,transaction
+really Can you guide me on how to make a booking for a movie ?,transaction
+Can you guide me how to make a booking for a movie ?,transaction
+Can you guide me on how to make a reservation for a pic ?,transaction
+naC you guide em on how to make a booking for a movie ?,transaction
+Can you guide me on how to make a booking for a movie urgently ?,transaction
+Can you guide me on how to a booking for a movie ?,transaction
+Can you guide me on how to make a reservation for a pic ?,transaction
+Can you guide me on how to make a booking ofr a movie ?,transaction
+How can I enthusiastically secure tickets for the upcoming movie ?,transaction
+How can I secure tickets the upcoming movie ?,transaction
+How can I secure slate for the upcoming pic ?,transaction
+How nac I secure tickets rof the upcoming movie ?,transaction
+How can I secure hassle-free tickets for the upcoming movie ?,transaction
+How can I secure tickets for the upcoming movie,transaction
+How can I secure slate for the upcoming pic ?,transaction
+How can I cesure tickets ofr the upcoming movie ?,transaction
+How can I secure enthusiastically tickets for the upcoming movie ?,transaction
+How can I secure tickets for the movie ?,transaction
+How can I secure slate for the upcoming pic ?,transaction
+Hwo can I secure tickets for the upcoming movie ?,transaction
+I want to go enthusiastically to the cinema .,transaction
+I want to to the cinema .,transaction
+I want to go to the movie_house .,transaction
+I awnt to go to the cinema .,transaction
+I want to urgently go to the cinema .,transaction
+I want to go to the cinema,transaction
+I want to go to the movie_house .,transaction
+I wtna to go to the cinema .,transaction
+I want hassle-free to go to the cinema .,transaction
+I want go to the cinema .,transaction
+I want to go to the movie_house .,transaction
+I want ot go to teh cinema .,transaction
+Soul,transaction
+Moana,transaction
+Gisaengchung,transaction
+Joker,transaction
+Avengers: Endgame,transaction
+Get Out,transaction
+Ford v Ferrari,transaction
+Knives Out,transaction
+The Irishman,transaction
+The Gentlemen,transaction
+Little Women,transaction
+Toy Story 4,transaction
+Baby Driver,transaction
+Arrival,transaction
+Just Mercy,transaction
+Zootopia,transaction
+Bohemian Rhapsody,transaction
+Isle of Dogs,transaction
+Deadpool 2,transaction
+Dark Waters,transaction
+Searching,transaction
+Incredibles 2,transaction
+A Star Is Born,transaction
+Coco,transaction
+Logan,transaction
+Wonder,transaction
+Thor: Ragnarok,transaction
+Paddington 2,transaction
+another movie,transaction
+other movie,transaction
+other film,transaction
+I want another film,transaction
+other movies,transaction
+other films,transaction
+amazing another movie,transaction
+another picture,transaction
+atonher movie,transaction
+another good movie,transaction
+another picture,transaction
+aonther movie,transaction
+amazing other movie,transaction
+other picture,transaction
+other eovim,transaction
+other perfect movie,transaction
+other picture,transaction
+other moive,transaction
+other stupid film,transaction
+other picture,transaction
+ethor film,transaction
+cool other film,transaction
+other picture,transaction
+otreh film,transaction
+I want another stupid film,transaction
+I want another picture,transaction
+I want another fmli,transaction
+stupid I want another film,transaction
+I want another picture,transaction
+I want another film,transaction
+amazing other movies,transaction
+other picture,transaction
+other eovims,transaction
+other amazing movies,transaction
+other picture,transaction
+other moives,transaction
+other stupid films,transaction
+other picture,transaction
+other fslmi,transaction
+good other films,transaction
+other picture,transaction
+other movies on this date,transaction
+other lifms,transaction
+other movies for date,transaction
+movies for date,transaction
+other movies for this date,transaction
+another date,transaction
+other date,transaction
+other date,transaction
+I want another date,transaction
+other dates,transaction
+other dates,transaction
+another amazing date,transaction
+another see,transaction
+anohter date,transaction
+great another date,transaction
+another see,transaction
+enothar date,transaction
+cool other date,transaction
+other see,transaction
+other tade,transaction
+other amazing date,transaction
+other see,transaction
+other daet,transaction
+perfect other times,transaction
+other clock,transaction
+other itmes,transaction
+cool other times,transaction
+other clock,transaction
+other simet,transaction
+I want another perfect date,transaction
+I want another see,transaction
+I nawt another date,transaction
+I want amazing another date,transaction
+I want another see,transaction
+I want another date,transaction
+stupid other dates,transaction
+other see,transaction
+orhet dates,transaction
+other stupid dates,transaction
+other see,transaction
+otreh dates,transaction
+other cool days,transaction
+other twenty-four_hour_period,transaction
+other yads,transaction
+other great days,transaction
+other twenty-four_hour_period,transaction
+other dates for movie,transaction
+dates for movie,transaction
+other dates for this movie,transaction
+rtheo days,transaction
+I want to view my booking,transaction
+can I see my booking,transaction
+i need to check my booking,transaction
+I want to view my reservation,transaction
+can I see my reservation,transaction
+I want to view my reservation,transaction
+I want to view my ticket,transaction
+can I see my ticket,transaction
+I want to view my ticket,transaction
+When was Soul released?,question
+What age is Soul for?,question
+What certificate is Soul?,question
+How long is Soul?,question
+What genres is Soul?,question
+What rating does Soul have?,question
+What review score does Soul have?,question
+What is the summary for Soul?,question
+Who is the director for Soul?,question
+Who are the actors for Soul?,question
+When was Gisaengchung released?,question
+What age is Gisaengchung for?,question
+What certificate is Gisaengchung?,question
+How long is Gisaengchung?,question
+What genres is Gisaengchung?,question
+What rating does Gisaengchung have?,question
+What review score does Gisaengchung have?,question
+What is the summary for Gisaengchung?,question
+Who is the director for Gisaengchung?,question
+Who are the actors for Gisaengchung?,question
+When was Joker released?,question
+What age is Joker for?,question
+What certificate is Joker?,question
+How long is Joker?,question
+What genres is Joker?,question
+What rating does Joker have?,question
+What review score does Joker have?,question
+What is the summary for Joker?,question
+Who is the director for Joker?,question
+Who are the actors for Joker?,question
+When was Avengers: Endgame released?,question
+What age is Avengers: Endgame for?,question
+What certificate is Avengers: Endgame?,question
+How long is Avengers: Endgame?,question
+What genres is Avengers: Endgame?,question
+What rating does Avengers: Endgame have?,question
+What review score does Avengers: Endgame have?,question
+What is the summary for Avengers: Endgame?,question
+Who is the director for Avengers: Endgame?,question
+Who are the actors for Avengers: Endgame?,question
+When was Ford v Ferrari released?,question
+What age is Ford v Ferrari for?,question
+What certificate is Ford v Ferrari?,question
+How long is Ford v Ferrari?,question
+What genres is Ford v Ferrari?,question
+What rating does Ford v Ferrari have?,question
+What review score does Ford v Ferrari have?,question
+What is the summary for Ford v Ferrari?,question
+Who is the director for Ford v Ferrari?,question
+Who are the actors for Ford v Ferrari?,question
+When was Knives Out released?,question
+What age is Knives Out for?,question
+What certificate is Knives Out?,question
+How long is Knives Out?,question
+What genres is Knives Out?,question
+What rating does Knives Out have?,question
+What review score does Knives Out have?,question
+What is the summary for Knives Out?,question
+Who is the director for Knives Out?,question
+Who are the actors for Knives Out?,question
+When was The Irishman released?,question
+What age is The Irishman for?,question
+What certificate is The Irishman?,question
+How long is The Irishman?,question
+What genres is The Irishman?,question
+What rating does The Irishman have?,question
+What review score does The Irishman have?,question
+What is the summary for The Irishman?,question
+Who is the director for The Irishman?,question
+Who are the actors for The Irishman?,question
+When was The Gentlemen released?,question
+What age is The Gentlemen for?,question
+What certificate is The Gentlemen?,question
+How long is The Gentlemen?,question
+What genres is The Gentlemen?,question
+What rating does The Gentlemen have?,question
+What review score does The Gentlemen have?,question
+What is the summary for The Gentlemen?,question
+Who is the director for The Gentlemen?,question
+Who are the actors for The Gentlemen?,question
+When was Little Women released?,question
+What age is Little Women for?,question
+What certificate is Little Women?,question
+How long is Little Women?,question
+What genres is Little Women?,question
+What rating does Little Women have?,question
+What review score does Little Women have?,question
+What is the summary for Little Women?,question
+Who is the director for Little Women?,question
+Who are the actors for Little Women?,question
+When was Toy Story 4 released?,question
+What age is Toy Story 4 for?,question
+What certificate is Toy Story 4?,question
+How long is Toy Story 4?,question
+What genres is Toy Story 4?,question
+What rating does Toy Story 4 have?,question
+What review score does Toy Story 4 have?,question
+What is the summary for Toy Story 4?,question
+Who is the director for Toy Story 4?,question
+Who are the actors for Toy Story 4?,question
+When was Dark Waters released?,question
+What age is Dark Waters for?,question
+What certificate is Dark Waters?,question
+How long is Dark Waters?,question
+What genres is Dark Waters?,question
+What rating does Dark Waters have?,question
+What review score does Dark Waters have?,question
+What is the summary for Dark Waters?,question
+Who is the director for Dark Waters?,question
+Who are the actors for Dark Waters?,question
+When was Just Mercy released?,question
+What age is Just Mercy for?,question
+What certificate is Just Mercy?,question
+How long is Just Mercy?,question
+What genres is Just Mercy?,question
+What rating does Just Mercy have?,question
+What review score does Just Mercy have?,question
+What is the summary for Just Mercy?,question
+Who is the director for Just Mercy?,question
+Who are the actors for Just Mercy?,question
+When was Bohemian Rhapsody released?,question
+What age is Bohemian Rhapsody for?,question
+What certificate is Bohemian Rhapsody?,question
+How long is Bohemian Rhapsody?,question
+What genres is Bohemian Rhapsody?,question
+What rating does Bohemian Rhapsody have?,question
+What review score does Bohemian Rhapsody have?,question
+What is the summary for Bohemian Rhapsody?,question
+Who is the director for Bohemian Rhapsody?,question
+Who are the actors for Bohemian Rhapsody?,question
+When was Isle of Dogs released?,question
+What age is Isle of Dogs for?,question
+What certificate is Isle of Dogs?,question
+How long is Isle of Dogs?,question
+What genres is Isle of Dogs?,question
+What rating does Isle of Dogs have?,question
+What review score does Isle of Dogs have?,question
+What is the summary for Isle of Dogs?,question
+Who is the director for Isle of Dogs?,question
+Who are the actors for Isle of Dogs?,question
+When was Deadpool 2 released?,question
+What age is Deadpool 2 for?,question
+What certificate is Deadpool 2?,question
+How long is Deadpool 2?,question
+What genres is Deadpool 2?,question
+What rating does Deadpool 2 have?,question
+What review score does Deadpool 2 have?,question
+What is the summary for Deadpool 2?,question
+Who is the director for Deadpool 2?,question
+Who are the actors for Deadpool 2?,question
+When was Searching released?,question
+What age is Searching for?,question
+What certificate is Searching?,question
+How long is Searching?,question
+What genres is Searching?,question
+What rating does Searching have?,question
+What review score does Searching have?,question
+What is the summary for Searching?,question
+Who is the director for Searching?,question
+Who are the actors for Searching?,question
+When was Incredibles 2 released?,question
+What age is Incredibles 2 for?,question
+What certificate is Incredibles 2?,question
+How long is Incredibles 2?,question
+What genres is Incredibles 2?,question
+What rating does Incredibles 2 have?,question
+What review score does Incredibles 2 have?,question
+What is the summary for Incredibles 2?,question
+Who is the director for Incredibles 2?,question
+Who are the actors for Incredibles 2?,question
+When was A Star Is Born released?,question
+What age is A Star Is Born for?,question
+What certificate is A Star Is Born?,question
+How long is A Star Is Born?,question
+What genres is A Star Is Born?,question
+What rating does A Star Is Born have?,question
+What review score does A Star Is Born have?,question
+What is the summary for A Star Is Born?,question
+Who is the director for A Star Is Born?,question
+Who are the actors for A Star Is Born?,question
+When was Coco released?,question
+What age is Coco for?,question
+What certificate is Coco?,question
+How long is Coco?,question
+What genres is Coco?,question
+What rating does Coco have?,question
+What review score does Coco have?,question
+What is the summary for Coco?,question
+Who is the director for Coco?,question
+Who are the actors for Coco?,question
+When was Logan released?,question
+What age is Logan for?,question
+What certificate is Logan?,question
+How long is Logan?,question
+What genres is Logan?,question
+What rating does Logan have?,question
+What review score does Logan have?,question
+What is the summary for Logan?,question
+Who is the director for Logan?,question
+Who are the actors for Logan?,question
+When was Wonder released?,question
+What age is Wonder for?,question
+What certificate is Wonder?,question
+How long is Wonder?,question
+What genres is Wonder?,question
+What rating does Wonder have?,question
+What review score does Wonder have?,question
+What is the summary for Wonder?,question
+Who is the director for Wonder?,question
+Who are the actors for Wonder?,question
+When was Thor: Ragnarok released?,question
+What age is Thor: Ragnarok for?,question
+What certificate is Thor: Ragnarok?,question
+How long is Thor: Ragnarok?,question
+What genres is Thor: Ragnarok?,question
+What rating does Thor: Ragnarok have?,question
+What review score does Thor: Ragnarok have?,question
+What is the summary for Thor: Ragnarok?,question
+Who is the director for Thor: Ragnarok?,question
+Who are the actors for Thor: Ragnarok?,question
+When was Paddington 2 released?,question
+What age is Paddington 2 for?,question
+What certificate is Paddington 2?,question
+How long is Paddington 2?,question
+What genres is Paddington 2?,question
+What rating does Paddington 2 have?,question
+What review score does Paddington 2 have?,question
+What is the summary for Paddington 2?,question
+Who is the director for Paddington 2?,question
+Who are the actors for Paddington 2?,question
+When was Get Out released?,question
+What age is Get Out for?,question
+What certificate is Get Out?,question
+How long is Get Out?,question
+What genres is Get Out?,question
+What rating does Get Out have?,question
+What review score does Get Out have?,question
+What is the summary for Get Out?,question
+Who is the director for Get Out?,question
+Who are the actors for Get Out?,question
+When was Baby Driver released?,question
+What age is Baby Driver for?,question
+What certificate is Baby Driver?,question
+How long is Baby Driver?,question
+What genres is Baby Driver?,question
+What rating does Baby Driver have?,question
+What review score does Baby Driver have?,question
+What is the summary for Baby Driver?,question
+Who is the director for Baby Driver?,question
+Who are the actors for Baby Driver?,question
+When was Arrival released?,question
+What age is Arrival for?,question
+What certificate is Arrival?,question
+How long is Arrival?,question
+What genres is Arrival?,question
+What rating does Arrival have?,question
+What review score does Arrival have?,question
+What is the summary for Arrival?,question
+Who is the director for Arrival?,question
+Who are the actors for Arrival?,question
+When was Moana released?,question
+What age is Moana for?,question
+What certificate is Moana?,question
+How long is Moana?,question
+What genres is Moana?,question
+What rating does Moana have?,question
+What review score does Moana have?,question
+What is the summary for Moana?,question
+Who is the director for Moana?,question
+Who are the actors for Moana?,question
+When was Zootopia released?,question
+What age is Zootopia for?,question
+What certificate is Zootopia?,question
+How long is Zootopia?,question
+What genres is Zootopia?,question
+What rating does Zootopia have?,question
+What review score does Zootopia have?,question
+What is the summary for Zootopia?,question
+Who is the director for Zootopia?,question
+Who are the actors for Zootopia?,question
+what is the age rating for avengers,question
+whats the summary for avengers,question
+What the age rating for avengsrs,question
+what is the age ratng for Avengers,question
+what is age rating for Moana,question
